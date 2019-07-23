@@ -2,6 +2,7 @@
 
 Other datasets:  
 Akash    https://github.com/kshntn/SmogDetection  
+Alexander https://github.com/ArseniusNott/SmogDetection
 Ashwin https://github.com/AshwinRam2000/Smoke_datasets/tree/master/PlanetEarth-master/SmogDetection  
 Berenice https://github.com/Berenice2018/BC_SmogDetection  
 Pooja https://github.com/poojavinod100/SmogDetection  
