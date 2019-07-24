@@ -10,5 +10,7 @@ Ramkrishna https://github.com/q-viper/SmogDetection
 Sayed https://github.com/SayedMaheen/PlanetEarth/tree/master/SmogDetection  
 ...
 
-Other datasets:
-https://sites.google.com/view/reside-dehaze-datasets
+Other datasets:  
+https://sites.google.com/view/reside-dehaze-datasets  
+http://synthia-dataset.net/download-2/  
+http://synthia-dataset.net/wp-content/uploads/2016/06/gros_cvpr16-1.pdf  
