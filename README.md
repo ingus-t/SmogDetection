@@ -6,6 +6,7 @@ Alexander https://github.com/ArseniusNott/SmogDetection
 Aniket https://github.com/AniTho/SmogDetection  
 Ashwin https://github.com/AshwinRam2000/Smoke_datasets/  
 Berenice https://github.com/Berenice2018/BC_SmogDetection  
+Carlo https://github.com/carlodavid012/SmogDetection  
 Pooja https://github.com/poojavinod100/SmogDetection  
 Ramkrishna https://github.com/q-viper/SmogDetection  
 Sayed https://github.com/SayedMaheen/PlanetEarth/  
